@@ -55,6 +55,8 @@ C
 	- Binary_tree_search
 	- Interval_search
 	- Exponential_search
+	- Blind Search
+	- Hierarchy search
 
 
 ## Sorting
